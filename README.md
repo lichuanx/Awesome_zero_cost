@@ -11,4 +11,4 @@ Awesome paper collection for zero-cost-NAS, welcome contribute
 |5. **Zero-Cost Operation Scoring in Differentiable Architecture Search** |[[paper]](https://arxiv.org/pdf/2106.06799.pdf)|[[repo]](https://github.com/zerocostptnas/zerocost_operation_score)|
 |6. **ZiCo: Zero-shot NAS via inverse Coefficient of Variation on Gradients**| [[paper]](https://openreview.net/forum?id=rwo-ls5GqGn)|
 |7. **Exploiting Model Compressibility in Zero-Cost NAS** |[winning_solution_poster](https://user-images.githubusercontent.com/11329784/209349055-c74cbce7-199b-4d24-873f-08ab13cfa7c3.png)|[[code]](https://github.com/Tiaspetto/automl_naslib)|
-|8. **NASLib: A Modular and Flexible Neural Architecture Search Library**| [[paper1]](https://arxiv.org/abs/2201.13396)[[paper2]]([https://arxiv.org/abs/2201.13396](https://openreview.net/forum?id=EohGx2HgNsA))||
+|8. **NASLib: A Modular and Flexible Neural Architecture Search Library**| [[paper1]](https://arxiv.org/abs/2201.13396)[[paper2]](https://openreview.net/forum?id=EohGx2HgNsA)||
