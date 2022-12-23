@@ -5,7 +5,7 @@ Awesome paper collection for zero-cost-NAS, welcome contribute
 | Titile |   paper/materials   | code  | 
 |----|------|-----|
 |1.**Zero-Cost Proxies for Lightweight NAS** |[[paper]](https://openreview.net/forum?id=0cmMMy8J5q) |[[repo]](https://github.com/SamsungLabs/zero-cost-nas)|
-|2.**Neural Architecture Search without Training** |[[paper]]([https://github.com/BayesWatch/nas-without-training](https://arxiv.org/abs/2006.04647))| [[repo]](https://github.com/BayesWatch/nas-without-training)|
+|2.**Neural Architecture Search without Training** | [[paper]]([https://github.com/BayesWatch/nas-without-training](https://arxiv.org/abs/2006.04647))| [[repo]](https://github.com/BayesWatch/nas-without-training)|
 |3. **Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective** |[[repo]](https://github.com/VITA-Group/TENAS)|[[paper]](https://arxiv.org/pdf/2102.11535.pdf)|
 |4. **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**| [[repo]](https://github.com/idstcv/ZenNAS)| [[paper]](https://arxiv.org/abs/2102.01063)|
 |5. **Zero-Cost Operation Scoring in Differentiable Architecture Search** |[[repo]](https://github.com/zerocostptnas/zerocost_operation_score)| [[paper]](https://arxiv.org/pdf/2106.06799.pdf)|
